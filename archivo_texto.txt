@@ -1,0 +1,1 @@
+cat nombre.extensio = muestra el contenido que tiene el archivo
